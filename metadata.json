@@ -1,0 +1,6 @@
+{
+  "name": "Sleep Hour",
+  "description": "Stay focused and phone-free during designated sleep hours with automated schedule management, strict mode protection, reboot recovery, and statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

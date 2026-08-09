@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sleep Hour</string>
+    <string name="accessibility_service_description">Sleep Hour Strict Mode protection service helps enforce phone-free sleep time by detecting app switching during active sleep schedules.</string>
+    <string name="notification_channel_name">Sleep Hour Protection</string>
+    <string name="notification_channel_desc">Persistent notification for Sleep Hour background protection service</string>
+    <string name="notification_title">Sleep Hour Protection Active</string>
+    <string name="notification_content">Monitoring active sleep schedules and enforcing phone-free hours</string>
+</resources>
